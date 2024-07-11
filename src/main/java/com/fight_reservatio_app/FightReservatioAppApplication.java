@@ -10,4 +10,5 @@ public class FightReservatioAppApplication {
 		SpringApplication.run(FightReservatioAppApplication.class, args);
 	}
 
+
 }
